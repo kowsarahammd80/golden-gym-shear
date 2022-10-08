@@ -1,0 +1,63 @@
+[
+    {
+        "id": "0",
+        "activityName": "Push Up",
+        "img": "https://image.shutterstock.com/image-photo/muscle-man-dmaking-push-ups-600w-153150755.jpg",
+        "price": 5000,
+        "description": "Traditional pushups are beneficial for building upper body strength.They work the triceps, pectoral muscles, and shoulders. When done with proper form,they can also the lower back and core strengthen  by engaging muscles Traditional pushups are beneficial",
+        "time": 30,
+        "age": "20-25"
+        
+    },
+    {
+        "id": "1",
+        "activityName": "Abdominal",
+        "img": "https://image.shutterstock.com/image-photo/healthy-man-exercising-abdominals-on-600w-325783649.jpg",
+        "price": 3000,
+        "description": "It’s surprising how many people miss the abdominal muscles when working out. In doing so, they miss out on the numerous benefits of abdominal workouts. If you’ve been skipping your ab session, let’s take a look at some of the key benefits of ab workouts.",
+        "time": 30,
+        "age": "20-25"
+        
+    },
+    {
+        "id": "2",
+        "activityName": "Pull Up",
+        "img": "https://image.shutterstock.com/image-photo/young-attractive-caucasian-crossfit-sportsman-600w-612460484.jpg",
+        "price": 4000,
+        "description": "To perform a pullup, you start by hanging onto a pullup bar with your palms facing away from you and your body extended fully. You then pull yourself up until your chin is above the bar. Pullups are different than a chinup. With a chinup, your palms and hands face toward you. ",
+        "time": 30,
+        "age": "20-25"
+        
+    },
+    {
+        "id": "3",
+        "activityName": "Pull Down",
+        "img": "https://image.shutterstock.com/image-photo/shoulder-pull-down-machine-fitness-600w-658289782.jpg",
+        "price": 6000,
+        "description": "Sit comfortably on the pulldown seat, with your feet flat on the floor. Check the height of the bar. You may need to adjust the bar height by shortening or lengthening the chain or cable that supports the bar or your seat height. Get a gym trainer to help with this if necessary. ",
+        "time": 30,
+        "age": "20-25"
+        
+    },
+    {
+        "id": "4",
+        "activityName": "Mussels Builup",
+        "img": "https://image.shutterstock.com/image-photo/strong-fitness-man-posing-muscular-600w-1029054205.jpg",
+        "price": 1000,
+        "description": "Mussels have been eaten for thousands of years in coastal countries across the world for their numerous health benefits health benefits. High in omega 3 fatty acids and many essential nutrients, mussels are the perfect additioIn this article, we explore the several ways mussels",
+        "time": 30,
+        "age": "20-25"
+        
+    },
+    {
+        "id": "5",
+        "activityName": "Leg Press",
+        "img": "https://image.shutterstock.com/image-photo/man-using-press-machine-fitness-600w-714092962.jpg",
+        "price": 9000,
+        "description": "The leg press is a popular piece of gym equipment that can help build key muscles in your legs. There are two types of leg press machines commonly found in gyms and home gyms: the standard horizontal leg press and the 45-degree leg press that has a seat that reclines",
+        "time": 30,
+        "age": "20-25"
+        
+
+    }
+]
